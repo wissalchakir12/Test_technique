@@ -1,6 +1,6 @@
 # 📜 AI Contract Reviewer  
 
-![Aperçu de l'application](Image1.PNG)
+![Aperçu de l'application](image1.PNG)
 
 ## 📌 Description  
 **AI Contract Reviewer** est une application **Streamlit** qui analyse des contrats PDF grâce à des agents IA spécialisés, puis génère un rapport structuré comprenant :  
